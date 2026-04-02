@@ -265,7 +265,7 @@ Observed failure pattern:
 [ ] Weak prioritization
 [ ] Poor revision discipline
 [ ] Strong writer, weak technical depth
-[X] Other: Can become overly thorough unless explicitly told to optimize for minimal scope; self-assessment scores may reflect optimistic bias
+[X] Other: Can become overly thorough unless explicitly told to optimize for minimal scope; self-assessment scores may reflect inherent self-assessment bias
 
 FINAL TEAM-FIT NOTE
 Best role: Developer assistant with strong support for review, documentation, and triage
